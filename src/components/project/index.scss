@@ -1,0 +1,21 @@
+.carditem{
+    display: flex;
+    margin-left: 250px;
+    img{
+        height: 200px;
+        width: 400px;
+        border-radius: 20px;
+        image-rendering: pixelated;
+    }
+    Button{
+        width: 111px;
+       margin-left: 10px;
+       margin-right: 5px;
+        background: transparent;
+        color: #00ff7f;
+    }
+   
+}
+.left{
+    margin-right: 50px;
+    }   
